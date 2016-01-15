@@ -2,7 +2,7 @@
 
 BankSys is a simple Java system, for academic purposes, used as a tool example in check correctness of ArcatchJ.
 
-<img src="BankSys-Architecture.png" width="500" height="187"/>
+<img src="https://cloud.githubusercontent.com/assets/3067971/12343559/7d61345a-bb13-11e5-96ac-b97b485eef62.png"/>
 
 BankSys...
 
