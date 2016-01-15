@@ -111,7 +111,7 @@ Contemplated Rules
 16. R16 - M must-signal E - 1 <br/> 
 <code>module(controller).mustSignal(controllerExceptions)</code><br/>
 
-Running the Project
+Checking the Conformation Architectural
 -------------------
 
 1. Set in build.xml the version to be used:<br/>
@@ -120,5 +120,10 @@ Running the Project
 2. Run the build.xml<br/>
 
 3. View the report generated in the subdirectory build/report:<br/>
+
+Running the Project
+-------------------
+
+1. Run the ATM24H.java
 
 
